@@ -10,7 +10,8 @@
 - ⚡ Fun fact **I am funny😅**
 <p>
   Idols:
-  <img align="right" alt="coding" width="400" src="Elon Musk.jpg">
+  Elon Musk🧑‍💻
+
   
   </p>
 
