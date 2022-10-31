@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
 
 <h3 align="left">Passions</h3>
-<p>Chess, Programming and Football /></a></p><br><br>
+<p>Chess, Programming and Football </a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StephenBal17&show_icons=true&locale=en&layout=compact" alt="Stephen Ball" /></p>
 
