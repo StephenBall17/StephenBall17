@@ -8,10 +8,11 @@
 
 
 - ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[(https://www.linkedin.com/in/stephen-ball-789570248/)]" target="blank"><img align="center" alt="Stephen Ball" height="30" width="40" /></a>
+<p>
+  Idols:
+  <img align="right" alt="coding" width="400" src="Elon Musk.jpg">
+  
+  </p>
 
 </p>
 
