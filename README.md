@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/stephen-ball-789570248/)" target="blank"><img align="center" alt="Stephen Ball" height="30" width="40" /></a>
+<a href="[(https://www.linkedin.com/in/stephen-ball-789570248/)]" target="blank"><img align="center" alt="Stephen Ball" height="30" width="40" /></a>
 
 </p>
 
@@ -19,8 +19,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
 
-<h3 align="left">Passions</h3>
-<p>Chess, Programming and Football </a></p><br><br>
+<h3 align="left">Passions:</h3>
+  <p><b>Chess, Programming and Football </b></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StephenBal17&show_icons=true&locale=en&layout=compact" alt="Stephen Ball" /></p>
 
